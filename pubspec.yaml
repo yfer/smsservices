@@ -1,0 +1,5 @@
+name: smsservices
+description: A sample command-line application
+dependencies:
+  http: any
+  unittest: any
